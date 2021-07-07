@@ -7,7 +7,6 @@ infile
 | decode-json(arrayname="*")
 | flatten
 |	stream-to-triples
-| filter-triples(passmatches="TRUE")
 | count-triples(countBy="PREDICATE")
 | sort-triples(By="SUBJECT")
 | template("${o}\t${s}")
