@@ -4,7 +4,7 @@ default infile = FLUX_DIR + "test.xml";
 infile
 | open-file
 | decode-xml
-| handle-generic-xml
+| handle-generic-xml(emitNamespace="true")
 | flatten
 //| morph(FLUX_DIR + "uniqueFields.xml") //This MORPH unqiues the fields in a record.
 |	stream-to-triples
