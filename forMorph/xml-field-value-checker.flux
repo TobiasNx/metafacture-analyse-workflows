@@ -1,9 +1,9 @@
-default infile = FLUX_DIR + "test.xml";
+default infile = "testFiles/test.xml";
 
-// fill in here the value that you are interested in:
-fieldOfInterest = "metadata.mods:mods.mods:classification.valueURI";
+// fill in here the element that you are interested in:
+fieldOfInterest = "metadata.mods:mods.mods:subject.mods:topic.*.value";
 
-
+// set the incoming data stream as you need
 infile
 | open-file
 | decode-xml

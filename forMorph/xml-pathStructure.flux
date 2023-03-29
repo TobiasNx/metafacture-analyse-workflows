@@ -1,8 +1,8 @@
-default infile = FLUX_DIR + "test.xml";
+default infile = FLUX_DIR + "alma.xml";
 
 
-infile
-| open-file
+"https://duepublico2.uni-due.de/oer/oai"
+| open-oaipmh(metadataPrefix="mods")
 | decode-xml
 | handle-generic-xml(emitNamespace="true")
 | flatten
@@ -13,3 +13,4 @@ infile
 | template("${o}\t${s}")
 | write("stdout")
 ;
+

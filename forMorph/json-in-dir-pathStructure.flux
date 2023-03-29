@@ -1,4 +1,4 @@
-default infile = "/home/tobias/git/lobid-resources/src/test/resources/jsonld";
+default infile = "/home/user/git/lobid-resources/src/test/resources/jsonld";
 
 
 infile

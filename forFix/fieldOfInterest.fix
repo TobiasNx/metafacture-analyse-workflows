@@ -1,0 +1,3 @@
+set_array("value")
+copy_field("$[fieldOfInterest]","value.$append")
+retain("value")

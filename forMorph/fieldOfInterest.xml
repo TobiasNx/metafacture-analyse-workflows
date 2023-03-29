@@ -2,7 +2,7 @@
 <metamorph xmlns="http://www.culturegraph.org/metamorph" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	version="1">
 	<rules>
-		<data source="$[fieldOfInterest]" name="fieldOfInterest"/>
+		<data source="$[fieldOfInterest]"/>
 	</rules>
 
 </metamorph>

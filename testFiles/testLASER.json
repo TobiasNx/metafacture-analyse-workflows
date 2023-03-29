@@ -1,0 +1,392 @@
+{
+  "packageHeader" : {
+    "name" : "Content Select - Oekom - Literarisches Sachbuch",
+    "gokbId" : "foo-id",
+    "uuid" : "foo-uuid",
+    "nominalPlatform" : {
+      "name" : "Content Select",
+      "primaryUrl" : "https://content-select.com/de/",
+      "oid" : "org.gokb.cred.Platform:2021152"
+    },
+    "nominalProvider" : {
+      "name" : "Preselect.media",
+      "oid" : "org.gokb.cred.Org:98124"
+    },
+    "curatoryGroups" : [ "Preselect" ],
+    "identifiers" : [ ],
+    "stats" : {
+      "kbartLines" : "6",
+      "recordsTotalCreated" : "6",
+      "recordsValid" : "6",
+      "recordsInvalid" : "0"
+    }
+  },
+  "tipps" : [ {
+    "accessType" : "P",
+    "dateFirstOnline" : "2014-02-24",
+    "title" : {
+      "dateFirstOnline" : "2014-02-24",
+      "dateFirstInPrint" : "2014-02-24",
+      "identifiers" : [ {
+        "value" : "9783865816184",
+        "type" : "isbn"
+      }, {
+        "value" : "9783865814654",
+        "type" : "pisbn"
+      }, {
+        "value" : "52e695d1-d3b8-4cf0-9587-2f4f2efc1343",
+        "type" : "preselect"
+      } ],
+      "type" : "monograph",
+      "publisher_history" : [ {
+        "endDate" : "",
+        "startDate" : "",
+        "name" : "oekom verlag"
+      } ],
+      "name" : "Alles hat seine Zeit, nur ich hab keine"
+    },
+    "dateFirstInPrint" : "2014-02-24",
+    "identifiers" : [ {
+      "value" : "9783865816184",
+      "type" : "isbn"
+    }, {
+      "value" : "9783865814654",
+      "type" : "pisbn"
+    }, {
+      "value" : "52e695d1-d3b8-4cf0-9587-2f4f2efc1343",
+      "type" : "preselect"
+    } ],
+    "prices" : [ {
+      "currency" : "EUR",
+      "type" : "list"
+    }, {
+      "currency" : "GBP",
+      "type" : "list"
+    }, {
+      "currency" : "USD",
+      "type" : "list"
+    } ],
+    "platform" : {
+      "name" : "Content Select",
+      "oid" : "org.gokb.cred.Platform: 2021152",
+      "primaryUrl" : "https://content-select.com/de/"
+    },
+    "name" : "Alles hat seine Zeit, nur ich hab keine",
+    "type" : "monograph",
+    "publisher_history" : [ {
+      "endDate" : "",
+      "startDate" : "",
+      "name" : "oekom verlag"
+    } ],
+    "publisherName" : "oekom verlag",
+    "titleId" : "52e695d1-d3b8-4cf0-9587-2f4f2efc1343",
+    "url" : "http://www.content-select.com/index.php?id=bib_view&ean=9783865816184"
+  }, {
+    "accessType" : "P",
+    "dateFirstOnline" : "2012-09-24",
+    "title" : {
+      "dateFirstOnline" : "2012-09-24",
+      "dateFirstInPrint" : "2012-09-24",
+      "identifiers" : [ {
+        "value" : "9783865816467",
+        "type" : "isbn"
+      }, {
+        "value" : "9783865813121",
+        "type" : "pisbn"
+      }, {
+        "value" : "52e695d2-8400-4f5b-994b-2f4f2efc1343",
+        "type" : "preselect"
+      } ],
+      "type" : "monograph",
+      "publisher_history" : [ {
+        "endDate" : "",
+        "startDate" : "",
+        "name" : "oekom verlag"
+      } ],
+      "name" : "Tree. A Life Story"
+    },
+    "dateFirstInPrint" : "2012-09-24",
+    "identifiers" : [ {
+      "value" : "9783865816467",
+      "type" : "isbn"
+    }, {
+      "value" : "9783865813121",
+      "type" : "pisbn"
+    }, {
+      "value" : "52e695d2-8400-4f5b-994b-2f4f2efc1343",
+      "type" : "preselect"
+    } ],
+    "prices" : [ {
+      "currency" : "EUR",
+      "type" : "list"
+    }, {
+      "currency" : "GBP",
+      "type" : "list"
+    }, {
+      "currency" : "USD",
+      "type" : "list"
+    } ],
+    "platform" : {
+      "name" : "Content Select",
+      "oid" : "org.gokb.cred.Platform: 2021152",
+      "primaryUrl" : "https://content-select.com/de/"
+    },
+    "name" : "Tree. A Life Story",
+    "type" : "monograph",
+    "publisher_history" : [ {
+      "endDate" : "",
+      "startDate" : "",
+      "name" : "oekom verlag"
+    } ],
+    "publisherName" : "oekom verlag",
+    "titleId" : "52e695d2-8400-4f5b-994b-2f4f2efc1343",
+    "url" : "http://www.content-select.com/index.php?id=bib_view&ean=9783865816467"
+  }, {
+    "accessType" : "P",
+    "dateFirstOnline" : "2010-03-04",
+    "title" : {
+      "dateFirstOnline" : "2010-03-04",
+      "dateFirstInPrint" : "2010-03-04",
+      "identifiers" : [ {
+        "value" : "9783865816177",
+        "type" : "isbn"
+      }, {
+        "value" : "9783865813206",
+        "type" : "pisbn"
+      }, {
+        "value" : "52e695d6-8600-41b7-bca7-2f4f2efc1343",
+        "type" : "preselect"
+      } ],
+      "type" : "monograph",
+      "publisher_history" : [ {
+        "endDate" : "",
+        "startDate" : "",
+        "name" : "oekom verlag"
+      } ],
+      "name" : "Lob der Pause"
+    },
+    "dateFirstInPrint" : "2010-03-04",
+    "identifiers" : [ {
+      "value" : "9783865816177",
+      "type" : "isbn"
+    }, {
+      "value" : "9783865813206",
+      "type" : "pisbn"
+    }, {
+      "value" : "52e695d6-8600-41b7-bca7-2f4f2efc1343",
+      "type" : "preselect"
+    } ],
+    "prices" : [ {
+      "currency" : "EUR",
+      "type" : "list"
+    }, {
+      "currency" : "GBP",
+      "type" : "list"
+    }, {
+      "currency" : "USD",
+      "type" : "list"
+    } ],
+    "platform" : {
+      "name" : "Content Select",
+      "oid" : "org.gokb.cred.Platform: 2021152",
+      "primaryUrl" : "https://content-select.com/de/"
+    },
+    "name" : "Lob der Pause",
+    "type" : "monograph",
+    "publisher_history" : [ {
+      "endDate" : "",
+      "startDate" : "",
+      "name" : "oekom verlag"
+    } ],
+    "publisherName" : "oekom verlag",
+    "titleId" : "52e695d6-8600-41b7-bca7-2f4f2efc1343",
+    "url" : "http://www.content-select.com/index.php?id=bib_view&ean=9783865816177"
+  }, {
+    "accessType" : "P",
+    "dateFirstOnline" : "2012-02-27",
+    "title" : {
+      "dateFirstOnline" : "2012-02-27",
+      "dateFirstInPrint" : "2012-02-27",
+      "identifiers" : [ {
+        "value" : "9783865816412",
+        "type" : "isbn"
+      }, {
+        "value" : "9783865811820",
+        "type" : "pisbn"
+      }, {
+        "value" : "52e695db-f968-41cb-90ff-2f4f2efc1343",
+        "type" : "preselect"
+      } ],
+      "type" : "monograph",
+      "publisher_history" : [ {
+        "endDate" : "",
+        "startDate" : "",
+        "name" : "oekom verlag"
+      } ],
+      "name" : "Vom Verstummen der Welt"
+    },
+    "dateFirstInPrint" : "2012-02-27",
+    "identifiers" : [ {
+      "value" : "9783865816412",
+      "type" : "isbn"
+    }, {
+      "value" : "9783865811820",
+      "type" : "pisbn"
+    }, {
+      "value" : "52e695db-f968-41cb-90ff-2f4f2efc1343",
+      "type" : "preselect"
+    } ],
+    "prices" : [ {
+      "currency" : "EUR",
+      "type" : "list"
+    }, {
+      "currency" : "GBP",
+      "type" : "list"
+    }, {
+      "currency" : "USD",
+      "type" : "list"
+    } ],
+    "platform" : {
+      "name" : "Content Select",
+      "oid" : "org.gokb.cred.Platform: 2021152",
+      "primaryUrl" : "https://content-select.com/de/"
+    },
+    "name" : "Vom Verstummen der Welt",
+    "type" : "monograph",
+    "publisher_history" : [ {
+      "endDate" : "",
+      "startDate" : "",
+      "name" : "oekom verlag"
+    } ],
+    "publisherName" : "oekom verlag",
+    "titleId" : "52e695db-f968-41cb-90ff-2f4f2efc1343",
+    "url" : "http://www.content-select.com/index.php?id=bib_view&ean=9783865816412"
+  }, {
+    "accessType" : "P",
+    "dateFirstOnline" : "2011-09-26",
+    "title" : {
+      "dateFirstOnline" : "2011-09-26",
+      "dateFirstInPrint" : "2011-09-26",
+      "identifiers" : [ {
+        "value" : "9783865815248",
+        "type" : "isbn"
+      }, {
+        "value" : "9783865811943",
+        "type" : "pisbn"
+      }, {
+        "value" : "52e695e2-96e4-4503-8384-2f4f2efc1343",
+        "type" : "preselect"
+      } ],
+      "editionStatement" : "1",
+      "editionDifferentiator" : "1",
+      "monographEdition" : "1",
+      "type" : "monograph",
+      "publisher_history" : [ {
+        "endDate" : "",
+        "startDate" : "",
+        "name" : "oekom verlag"
+      } ],
+      "name" : "Das Rätsel der grünen Rose"
+    },
+    "dateFirstInPrint" : "2011-09-26",
+    "identifiers" : [ {
+      "value" : "9783865815248",
+      "type" : "isbn"
+    }, {
+      "value" : "9783865811943",
+      "type" : "pisbn"
+    }, {
+      "value" : "52e695e2-96e4-4503-8384-2f4f2efc1343",
+      "type" : "preselect"
+    } ],
+    "prices" : [ {
+      "currency" : "EUR",
+      "type" : "list"
+    }, {
+      "currency" : "GBP",
+      "type" : "list"
+    }, {
+      "currency" : "USD",
+      "type" : "list"
+    } ],
+    "editionDifferentiator" : "1",
+    "monographEdition" : "1",
+    "editionStatement" : "1",
+    "platform" : {
+      "name" : "Content Select",
+      "oid" : "org.gokb.cred.Platform: 2021152",
+      "primaryUrl" : "https://content-select.com/de/"
+    },
+    "name" : "Das Rätsel der grünen Rose",
+    "type" : "monograph",
+    "publisher_history" : [ {
+      "endDate" : "",
+      "startDate" : "",
+      "name" : "oekom verlag"
+    } ],
+    "publisherName" : "oekom verlag",
+    "titleId" : "52e695e2-96e4-4503-8384-2f4f2efc1343",
+    "url" : "http://www.content-select.com/index.php?id=bib_view&ean=9783865815248",
+    "editionNumber" : "1"
+  }, {
+    "accessType" : "P",
+    "dateFirstOnline" : "2014-02-24",
+    "title" : {
+      "dateFirstOnline" : "2014-02-24",
+      "dateFirstInPrint" : "2014-02-24",
+      "identifiers" : [ {
+        "value" : "9783865816313",
+        "type" : "isbn"
+      }, {
+        "value" : "9783865814579",
+        "type" : "pisbn"
+      }, {
+        "value" : "52e69602-c674-4a96-90cf-2f4f2efc1343",
+        "type" : "preselect"
+      } ],
+      "type" : "monograph",
+      "publisher_history" : [ {
+        "endDate" : "",
+        "startDate" : "",
+        "name" : "oekom verlag"
+      } ],
+      "name" : "Meine zweite Natur"
+    },
+    "dateFirstInPrint" : "2014-02-24",
+    "identifiers" : [ {
+      "value" : "9783865816313",
+      "type" : "isbn"
+    }, {
+      "value" : "9783865814579",
+      "type" : "pisbn"
+    }, {
+      "value" : "52e69602-c674-4a96-90cf-2f4f2efc1343",
+      "type" : "preselect"
+    } ],
+    "prices" : [ {
+      "currency" : "EUR",
+      "type" : "list"
+    }, {
+      "currency" : "GBP",
+      "type" : "list"
+    }, {
+      "currency" : "USD",
+      "type" : "list"
+    } ],
+    "platform" : {
+      "name" : "Content Select",
+      "oid" : "org.gokb.cred.Platform: 2021152",
+      "primaryUrl" : "https://content-select.com/de/"
+    },
+    "name" : "Meine zweite Natur",
+    "type" : "monograph",
+    "publisher_history" : [ {
+      "endDate" : "",
+      "startDate" : "",
+      "name" : "oekom verlag"
+    } ],
+    "publisherName" : "oekom verlag",
+    "titleId" : "52e69602-c674-4a96-90cf-2f4f2efc1343",
+    "url" : "http://www.content-select.com/index.php?id=bib_view&ean=9783865816313"
+  } ]
+}

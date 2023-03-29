@@ -1,4 +1,4 @@
-default infile = FLUX_DIR + "test.json";
+default infile = "testFiles/alma-hbz.json";
 
 
 infile
